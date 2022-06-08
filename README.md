@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Trocando o audiovisual pela vida de Dev! Se estiver interessado em acompanhar essa transição, me segue nas redes abaixo.
  
 <div>  
   <a href="https://www.instagram.com/jofrancesar/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
