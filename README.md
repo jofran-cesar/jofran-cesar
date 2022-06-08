@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+Olá, bem vindo ao meu perfil! Me chamo Jofran! 😁
+- Filmmaker
+- Editor de vídeos
+- Frontend Júnior
+- Estudando HTML, CSS e Javascript.
 
  <div>
   <a href="https://github.com/jofran-cesar">
