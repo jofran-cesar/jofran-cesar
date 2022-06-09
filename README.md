@@ -1,8 +1,7 @@
 Olá, bem vindo ao meu perfil! Me chamo Jofran! 😁
-- Filmmaker
-- Editor de vídeos
 - Frontend Júnior
 - Estudando HTML, CSS e Javascript.
+- Buscando a primeira vaga de desenvolvedor júnior.
 
  <div>
   <a href="https://github.com/jofran-cesar">
