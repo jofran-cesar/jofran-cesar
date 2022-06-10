@@ -1,5 +1,5 @@
 Olá, bem vindo ao meu perfil! Me chamo Jofran! 😁
-- Frontend Júnior
+- Frontend Júnior.
 - Estudando HTML, CSS e Javascript.
 - Buscando a primeira vaga de desenvolvedor júnior.
 
